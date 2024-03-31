@@ -3,9 +3,9 @@
 </script>
 <style>
 	.czone {
-		width: 900px;
-		height: 600px;
-		border: 2px solid black;
+		width: 796px;
+		height: 496px;
+		border: 2px solid #309ACF;
 		border-radius: 0;
 		overflow: hidden; 
 		display: grid;
