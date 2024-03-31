@@ -13,8 +13,6 @@
 		background-image: url("https://64.media.tumblr.com/8769e8177111986f5f9330506ee95a9e/d60575209126f066-69/s1280x1920/ea73ea8eab8f75738a15c13244670a70d568417f.png");
 		background-repeat: no-repeat;
 		background-size: cover;
-	
-		
 	}
 </style>
 
